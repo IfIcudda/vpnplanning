@@ -35,7 +35,7 @@ my IKE preshared key:
 my VM IP address (internal): 
 
 VPC worksheet
-
+==================
 partner's name:
 partner's VPC name:
 partner's VPC subnet IP Range (for VPN tunnel):
