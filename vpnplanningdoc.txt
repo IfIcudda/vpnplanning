@@ -34,6 +34,7 @@ my elastic/static IP address:
 my IKE preshared key: 
 my VM IP address (internal): 
 
+VPC worksheet
 
 partner's name:
 partner's VPC name:
